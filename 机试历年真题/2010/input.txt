@@ -1,0 +1,4 @@
+this is some > text!
+one plus one eqs 2
+this line should be deleted
+prev line sh*ould be deleted
