@@ -13,28 +13,27 @@ string readFile(string filename) {
   return oss.str();
 }
 
+/* abc*d?e */
 bool check(const string &s, int idx) {
-  if (s[idx++] != 'a') return false;
-  while (s[idx++] == 'b');
-  if (s[idx] == 'e') return true;
-  if (s[idx++] != 'd') return false;
-  if (s[idx] != 'e') return false;
+  int len = s.length();
+  if (idx >= len || s[idx++] != 'a') return false;
+  if (idx >= len || s[idx++] != 'b') return false;
+  while (idx < len && s[idx++] == 'c');
+  if (idx < len && s[idx] == 'e') return true;
+  if (idx >= len || s[idx++] != 'd') return false;
+  if (idx >= len || s[idx] != 'e') return false;
   return true;
 }
 
 int main(int argc, char *argv[]) {
-  string s = readFile("./input.txt");
+  string s = readFile("./3.txt");
   int flag = 0;
   for (int i = 0; i < s.length(); i++) {
     if (check(s, i)) {
-      flag = 1;
-      break;
+      cout << "找到abc*d?e匹配" << endl;
+      return 0;
     }
   }
-  if (flag) {
-    cout << "找到abd*d?e匹配" << endl;
-  } else {
-    cout << "没找到abd*d?e匹配" << endl;
-  }
+  cout << "没找到abc*d?e匹配" << endl;
   return 0;
 }
