@@ -44,22 +44,22 @@
 
 文章存储在`github pages`上，没有`科学上网`的同学可能访问比较慢，请耐心等待。
 
-+ [2006年机试题详解](https://zdszero.github.io/posts/ustc-test-2006/)
-+ [2007年机试题详解](https://zdszero.github.io/posts/ustc-test-2007/)
-+ [2008年机试题详解](https://zdszero.github.io/posts/ustc-test-2008/)
-+ [2009年机试题详解](https://zdszero.github.io/posts/ustc-test-2009/)
-+ [2010年机试题详解](https://zdszero.github.io/posts/ustc-test-2010/)
-+ [2011年机试题详解](https://zdszero.github.io/posts/ustc-test-2011/)
-+ [2012年机试题详解](https://zdszero.github.io/posts/ustc-test-2012/)
-+ [2013年机试题详解](https://zdszero.github.io/posts/ustc-test-2013/)
-+ [2014年机试题详解](https://zdszero.github.io/posts/ustc-test-2014/)
-+ [2015年机试题详解](https://zdszero.github.io/posts/ustc-test-2015/)
-+ [2016年机试题详解](https://zdszero.github.io/posts/ustc-test-2016/)
-+ [2017年机试题详解](https://zdszero.github.io/posts/ustc-test-2017/)
-+ [2018年机试题详解](https://zdszero.github.io/posts/ustc-test-2018/)
-+ [2019年机试题详解](https://zdszero.github.io/posts/ustc-test-2019/)
-+ [2020年机试题详解](https://zdszero.github.io/posts/ustc-test-2020/)
-+ [2021年机试题详解](https://zdszero.github.io/posts/ustc-test-2021/)
++ [2006年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2006/)
++ [2007年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2007/)
++ [2008年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2008/)
++ [2009年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2009/)
++ [2010年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2010/)
++ [2011年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2011/)
++ [2012年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2012/)
++ [2013年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2013/)
++ [2014年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2014/)
++ [2015年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2015/)
++ [2016年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2016/)
++ [2017年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2017/)
++ [2018年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2018/)
++ [2019年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2019/)
++ [2020年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2020/)
++ [2021年机试题详解](https://zdszero.github.io/ustc-graduate-guide/posts/ustc-test-2021/)
 
 ### 1.3 如何准备机试
 
