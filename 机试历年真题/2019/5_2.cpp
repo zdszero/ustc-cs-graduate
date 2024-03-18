@@ -1,6 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include <cassert>
+#include <unordered_map>
 
 using namespace std;
 
@@ -8,6 +9,8 @@ struct TreeNode {
   TreeNode *left{nullptr};
   TreeNode *right{nullptr};
   int val;
+  // 从以该结点为根节点的子树到叶结点的最长路径
+  int maxpath{-1};
   TreeNode(int val): val{val} {}
 };
 
@@ -40,12 +43,15 @@ void insertNode(int val) {
 
 #define MAX(a, b, c) max(a, max(b, c))
 
-// 求从根节点到叶结点的最短路径
 int getMaxPath(TreeNode *root) {
   if (!root) {
     return 0;
   }
+  if (root->maxpath != -1) {
+    return root->maxpath;
+  }
   int ans = root->val + max(getMaxPath(root->left), getMaxPath(root->right));
+  root->maxpath = ans;
   return ans;
 }
 
